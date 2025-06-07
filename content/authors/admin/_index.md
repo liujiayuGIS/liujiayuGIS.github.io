@@ -49,7 +49,7 @@ education:
   - area: M.S. in Geoinformatics Engineering
     institution: Shaanxi normal university
     date_start: 2023-09-01
-    date_end: 2026-06-31
+    date_end: 2026-06-30
     summary: |
       Supervisor: Assoc. Prof. Xiping Yang 
   - area: BSc Land Management
