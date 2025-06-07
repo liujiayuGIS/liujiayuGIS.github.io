@@ -50,7 +50,7 @@ featured: true
 links:
 - name: "View at Publisher"
   url: "https://linkinghub.elsevier.com/retrieve/pii/S0168169925004661"
-url_pdf: '' # 如果有 PDF 的直接链接，可以填在这里
+url_pdf: '' 
 url_code: ''
 url_dataset: ''
 url_poster: ''
@@ -81,10 +81,5 @@ projects: []
 slides: ""
 ---
 
-{{% callout note %}}
-单击上方的“引用”按钮，可以演示如何让访问者将出版物元数据导入其文献管理软件。
-{{% /callout %}}
-
-在这里可以添加出版物的**全文**或**补充说明**。您可以使用丰富的格式，例如包含[代码、数学公式和图片](https://docs.hugoblox.com/content/writing-markdown-latex/)。
 
 Add the publication's **full text** or **supplementary notes** here. You can use rich formatting such as including [code, math, and images](https://docs.hugoblox.com/content/writing-markdown-latex/).
