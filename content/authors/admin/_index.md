@@ -73,10 +73,10 @@ academic_activities:
 social:
   - "公众号：城市空间感知与治理优化（团队科研公众号）运营者和编辑"
   - "公众号：城市感知计算（科研科普公众号）新媒体矩阵成员，主持GIS茶话会"
-
+---
  
+## About Jiayu
 
-# About Jiayu
 Jiayu Liu is a master's student in Geoinformatics Engineering at Shaanxi Normal University. His research interests lie at the intersection of Geographic Information Science (GIS) and transportation. He is dedicated to leveraging multi-source big data to understand and solve problems in transportation geography, with a particular focus on human mobility and public transit network design.
 
----
+
