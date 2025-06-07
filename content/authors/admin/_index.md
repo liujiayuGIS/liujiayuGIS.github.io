@@ -44,13 +44,13 @@ interests:
   - TOD and Urban Planning
 
 education:
-  - area: M.S. in Geoinformatics Engineering
+  - area: M.Eng. in Geoinformatics Engineering
     institution: Shaanxi normal university
     date_start: 2023-09-01
     date_end: 2026-06-30
     summary: |
       Supervisor: Assoc. Prof. Xiping Yang 
-  - area: BEng in Land Management
+  - area: B.Eng. in Land Management
     institution: Sichuan Agricultural University
     date_start: 2018-09-01
     date_end: 2023-06-30
