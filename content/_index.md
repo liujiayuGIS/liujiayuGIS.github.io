@@ -38,7 +38,7 @@ sections:
         My recent research focuses on optimizing urban traffic networks using deep reinforcement learning. Additionally, our team, led by Associate Professor Xiping Yang (xpyang@snnu.edu.cn), works in the areas of trajectory representation and prediction, urban transportation and sustainable development.
         
         Please reach out to collaborate 😃
-   design:
+    design:
       columns: '1'
   - block: collection
     id: papers
@@ -100,5 +100,4 @@ sections:
       # Reduce spacing
       spacing:
         padding: [0, 0, 0, 0]
-  
 ---
