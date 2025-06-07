@@ -18,7 +18,7 @@ superuser: true
 highlight_name: true
 
 # Role/position/tagline
-role: M.S. in Geoinformatics Engineering
+role: M.Eng. in Geoinformatics Engineering
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
