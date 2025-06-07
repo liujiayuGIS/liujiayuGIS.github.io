@@ -1,9 +1,7 @@
 ---
 # Display name
-title: 刘佳雨
+title: Jiayu Liu（刘佳雨）
 
-# Name pronunciation (optional)
-name_pronunciation: Jiayu Liu
 
 # Full name (for SEO)
 first_name: Jiayu
