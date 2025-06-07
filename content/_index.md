@@ -40,27 +40,24 @@ sections:
         Please reach out to collaborate 😃
     design:
       columns: '1'
-  - block: collection
-    id: papers
-    content:
-      title: Featured Publications
-      filters:
-        folders:
-          - publication
-        featured_only: true
-    design:
-      view: article-grid
-      columns: 2
-  - block: collection
+ 
+  - block: markdown
     content:
       title: Recent Publications
-      text: ""
-      filters:
-        folders:
-          - publication
-        exclude_featured: false
+      text: |-
+       •<b>Liu Jiayu</b>, Yang Xiping*, Huang Xiaoyan, Li Jiyuan, Li Junyi, Chen Hongfei, An Rui, Song Yongyong. Introducing street view into node-place model for evaluating transit-oriented development[J]. Journal of Transport Geography. (2025, Major and Revised for review)
+        
+        •<b>Liu Jiayu</b>, Yang Xiping*, Luo Lin, Li Junyi, Chen Hongfei, An Rui, Li Jiyuan. Inspecting urban transit-oriented development from perspectives of human activity[J]. Journal of Transport Geography. (2025, Major and Revised for review)
+        
+        •Yang Xiping, <b>Liu Jiayu</b>, Tu Wei*, Zhao Zhiyuan, An Rui, Li Jiyuan. A multi-objective optimization framework for locating metro stations by integrating travel demand, accessibility and land use intensity[J]. Computers, Environment and Urban Systems. (2025, Under Review)
+        
+        •Yang Xiping*, Luo Lin, <b>Liu Jiayu</b>, Chen Hongfei, Li Junyi. Evaluating the Improvement of Healthcare Accessibility for Urban Residents via the Construction of New Hospitals: A Case Study of Xi’an, China[J]. Applied Spatial Analysis and Policy, 18(5)（2025）.
+        
+        •Luo Lin, Yang Xiping, Chen Xueye*, <b>Liu Jiayu</b>, An Rui, Li Jiyuan. Nonlinear Influence of the Built Environment on the Attraction of the Third Activity: A Comparative Analysis of Inflow from Home and Work[J]. ISPRS International Journal of Geo-Information, 13(9): 337（2024）.
+        
+        •Huang Tao, Jiao Lei*, Bai Yingfei, Yan Jianwu, Yang Xiping, <b>Liu Jiayu</b>, Liang Wei, Luo Da, Zhang Liwei, Wang Hao, Li Zhaolin, Li Zongshan, Ji Ni, Gao Guangyao. Enhancing vegetation fine-scale classification accuracy in complex topography via machine learning: An approach that fuses UAV-LiDAR and high-resolution imagery[J]. Computers and Electronics in Agriculture. 235,110360(2025).
     design:
-      view: citation
+      columns: '1'
   - block: collection
     id: talks
     content:
@@ -71,33 +68,5 @@ sections:
     design:
       view: article-grid
       columns: 1
-  - block: collection
-    id: news
-    content:
-      title: Recent News
-      subtitle: ''
-      text: ''
-      # Page type to display. E.g. post, talk, publication...
-      page_type: post
-      # Choose how many pages you would like to display (0 = all pages)
-      count: 5
-      # Filter on criteria
-      filters:
-        author: ""
-        category: ""
-        tag: ""
-        exclude_featured: false
-        exclude_future: false
-        exclude_past: false
-        publication_type: ""
-      # Choose how many pages you would like to offset by
-      offset: 0
-      # Page order: descending (desc) or ascending (asc) date.
-      order: desc
-    design:
-      # Choose a layout view
-      view: date-title-summary
-      # Reduce spacing
-      spacing:
-        padding: [0, 0, 0, 0]
+  
 ---
