@@ -1,13 +1,13 @@
 ---
 # Display name
-title: 吳健雄
+title: 刘佳雨
 
 # Name pronunciation (optional)
-name_pronunciation: Chien Shiung Wu
+name_pronunciation: Jiayu Liu
 
 # Full name (for SEO)
-first_name: Shiung Wu
-last_name: Chien
+first_name: Jiayu
+last_name: Liu
 
 # Status emoji
 status:
@@ -20,167 +20,107 @@ superuser: true
 highlight_name: true
 
 # Role/position/tagline
-role: Chief Scientist
+role: M.S. in Geoinformatics Engineering
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
-  - name: OpenAI
-    url: https://openai.com/
+  - name: Shaanxi Normal University
+    
 
 # Social network links
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
 profiles:
   - icon: at-symbol
-    url: 'mailto:your-email@example.com'
+    url: 'mailto:liujiayu@snnu.edu.cn'
     label: E-mail Me
-  - icon: brands/x
-    url: https://twitter.com/GetResearchDev
-  - icon: brands/instagram
-    url: https://www.instagram.com/
   - icon: brands/github
-    url: https://github.com/gcushen
-  - icon: brands/linkedin
-    url: https://www.linkedin.com/
+    url: https://github.com/GiserJiayuliu
   - icon: academicons/google-scholar
-    url: https://scholar.google.com/
+    url: https://scholar.google.com/citations?user=IXGB22YAAAAJ&hl=zh-CN
   - icon: academicons/orcid
-    url: https://orcid.org/
+    url: https://orcid.org/0009-0009-8751-1658
 
 interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - Spatio-temporal Big Data and GeoAI
+  - Trajectory Mining and Analysis
+  - Transportation Optimization
+  - TOD and Urban Planning
 
 education:
-  - area: PhD Artificial Intelligence
-    institution: Stanford University
-    date_start: 2016-01-01
-    date_end: 2020-12-31
+  - area: M.S. in Geoinformatics Engineering
+    institution: Shaanxi normal university
+    date_start: 2023-09-01
+    date_end: 2026-06-31
     summary: |
-      Thesis on _Why LLMs are awesome_. Supervised by [Prof Joe Smith](https://example.com). Presented papers at 5 IEEE conferences with the contributions being published in 2 Springer journals.
-    button:
-      text: 'Read Thesis'
-      url: 'https://example.com'
-  - area: MEng Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    date_start: 2016-01-01
-    date_end: 2020-12-31
-    summary: |
-      GPA: 3.8/4.0
+      Supervisor: Assoc. Prof. Xiping Yang 
+  - area: BSc Land Management
+    institution: Sichuan Agricultural University
+    date_start: 2018-09-01
+    date_end: 2023-06-31
+    
+publications:
+  - "Liu Jiayu, Yang Xiping*, Huang Xiaoyan, Li Jiyuan, Li Junyi, Chen Hongfei, An Rui, Song Yongyong. Introducing street view into node-place model for evaluating transit-oriented development[J]. Journal of Transport Geography. (2025, Major and Revised for review)"
+  - "Liu Jiayu, Yang Xiping*, Luo Lin, Li Junyi, Chen Hongfei, An Rui, Li Jiyuan. Inspecting urban transit-oriented development from perspectives of human activity[J]. Journal of Transport Geography. (2025, Major and Revised for review)"
+  - "Yang Xiping, Liu Jiayu, Tu Wei*, Zhao Zhiyuan, An Rui, Li Jiyuan. A multi-objective optimization framework for locating metro stations by integrating travel demand, accessibility and land use intensity[J]. Computers, Environment and Urban Systems. (2025, Under Review)"
+  - "Yang Xiping*, Luo Lin, Liu Jiayu, Chen Hongfei, Li Junyi. Evaluating the Improvement of Healthcare Accessibility for Urban Residents via the Construction of New Hospitals: A Case Study of Xi’an, China[J]. Applied Spatial Analysis and Policy, 18(5)（2025）."
+  - "Luo Lin, Yang Xiping, Chen Xueye*, Liu Jiayu, An Rui, Li Jiyuan. Nonlinear Influence of the Built Environment on the Attraction of the Third Activity: A Comparative Analysis of Inflow from Home and Work[J]. ISPRS International Journal of Geo-Information, 13(9): 337（2024）."
+  - "Huang Tao, Jiao Lei*, Bai Yingfei, Yan Jianwu, Yang Xiping, Liu Jiayu, Liang Wei, Luo Da, Zhang Liwei, Wang Hao, Li Zhaolin, Li Zongshan, Ji Ni, Gao Guangyao. Enhancing vegetation fine-scale classification accuracy in complex topography via machine learning: An approach that fuses UAV-LiDAR and high-resolution imagery[J]. Computers and Electronics in Agriculture. 235,110360(2025)."
 
-      Courses included:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - area: BSc Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    date_start: 2016-01-01
-    date_end: 2020-12-31
-    summary: |
-      GPA: 3.4/4.0
-      
-      Courses included:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-work:
-  - position: Director of Cloud Infrastructure
-    company_name: GenCoin
-    company_url: ''
-    company_logo: ''
-    date_start: 2021-01-01
-    date_end: ''
-    summary: |2-
-      Responsibilities include:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - position: Backend Software Engineer
-    company_name: X
-    company_url: ''
-    company_logo: ''
-    date_start: 2016-01-01
-    date_end: 2020-12-31
-    summary: |
-      Responsibilities include:
-      - Migrated infrastructure to a new data center
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+academic_activities:
+  - "第二届城市科学大会（2024，中国，北京）墙报"
+  - "第十九届地理信息科学理论与方法年会（2024，中国，西安）"
+  - "2024中国行为地理学术年会（2024，中国，西安）分会场报告"
+  - "2025地理模型与地理信息分析学术年会（2024，中国，杭州）分会场14，22报告"
+social:
+  - "公众号：城市空间感知与治理优化（团队科研公众号）运营者和编辑"
+  - "公众号：城市感知计算（科研科普公众号）新媒体矩阵成员，主持GIS茶话会"
 
 # Skills
 # Add your own SVG icons to `assets/media/icons/`
 skills:
-  - name: Technical Skills
+  - name: Programming & Modeling
     items:
       - name: Python
         description: ''
+        percent: 90
+        icon: brands/python
+      - name: R
+        description: ''
         percent: 80
-        icon: code-bracket
-      - name: Data Science
-        description: ''
-        percent: 100
-        icon: chart-bar
-      - name: SQL
-        description: ''
-        percent: 40
-        icon: circle-stack
-  - name: Hobbies
-    color: '#eeac02'
-    color_border: '#f0bf23'
-    items:
-      - name: Hiking
+        icon: brands/r-project
+      - name: C
         description: ''
         percent: 60
-        icon: person-simple-walk
-      - name: Cats
+        icon: code-bracket
+      - name: Mathematical Modeling
         description: ''
-        percent: 100
-        icon: cat
-      - name: Photography
+        percent: 85
+        icon: chart-bar
+  - name: Professional Skills
+    items:
+      - name: Spatial Analysis
+        description: ''
+        percent: 95
+        icon: earth-americas
+      - name: Machine Learning
+        description: ''
+        percent: 90
+        icon: brain
+      - name: Deep Reinforcement Learning
+        description: ''
+        percent: 85
+        icon: robot
+      - name: Operations Research & Optimization
         description: ''
         percent: 80
-        icon: camera
+        icon: arrows-split-up-and-left
 
-languages:
-  - name: English
-    percent: 100
-  - name: Chinese
-    percent: 75
-  - name: Portuguese
-    percent: 25
 
-# Awards.
-#   Add/remove as many awards below as you like.
-#   Only `title`, `awarder`, and `date` are required.
-#   Begin multi-line `summary` with YAML's `|` or `|2-` multi-line prefix and indent 2 spaces below.
+
+
 awards:
-  - title: Neural Networks and Deep Learning
-    url: https://www.coursera.org/learn/neural-networks-deep-learning
-    date: '2023-11-25'
-    awarder: Coursera
-    icon: coursera
-    summary: |
-      I studied the foundational concept of neural networks and deep learning. By the end, I was familiar with the significant technological trends driving the rise of deep learning; build, train, and apply fully connected deep neural networks; implement efficient (vectorized) neural networks; identify key parameters in a neural network’s architecture; and apply deep learning to your own applications.
-  - title: Blockchain Fundamentals
-    url: https://www.edx.org/professional-certificate/uc-berkeleyx-blockchain-fundamentals
-    date: '2023-07-01'
-    awarder: edX
-    icon: edx
-    summary: |
-      Learned:
-      - Synthesize your own blockchain solutions
-      - Gain an in-depth understanding of the specific mechanics of Bitcoin
-      - Understand Bitcoin’s real-life applications and learn how to attack and destroy Bitcoin, Ethereum, smart contracts and Dapps, and alternatives to Bitcoin’s Proof-of-Work consensus algorithm
-  - title: 'Object-Oriented Programming in R'
-    url: https://www.datacamp.com/courses/object-oriented-programming-with-s3-and-r6-in-r
-    certificate_url: https://www.datacamp.com
-    date: '2023-01-21'
-    awarder: datacamp
-    icon: datacamp
-    summary: |
-      Object-oriented programming (OOP) lets you specify relationships between functions and the objects that they can act on, helping you manage complexity in your code. This is an intermediate level course, providing an introduction to OOP, using the S3 and R6 systems. S3 is a great day-to-day R programming tool that simplifies some of the functions that you write. R6 is especially useful for industry-specific analyses, working with web APIs, and building GUIs.
----
+ 
 
 ## About Me
 
-Chien Shiung Wu is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Jiayu Liu is a master's student in Geoinformatics Engineering at Shaanxi Normal University. His research interests lie at the intersection of Geographic Information Science (GIS) and transportation. He is dedicated to leveraging multi-source big data to understand and solve problems in transportation geography, with a particular focus on human mobility and public transit network design.
