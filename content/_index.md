@@ -45,11 +45,11 @@ sections:
     content:
       title: Recent Publications
       text: |
-          • **Liu Jiayu** , Yang Xiping*, Huang Xiaoyan, Li Jiyuan, Li Junyi, Chen Hongfei, An Rui, Song Yongyong.   Introducing street view into node-place model for evaluating transit-oriented development[J].  Journal of Transport Geography . (2025, Minor and Revised for review)
+          • **Liu Jiayu** , Yang Xiping*, Huang Xiaoyan, Li Jiyuan, Li Junyi, Chen Hongfei, An Rui, Song Yongyong. Introducing street view into node-place model for evaluating transit-oriented development[J].  Journal of Transport Geography . (2025, Minor and Revised for review)
           • **Liu Jiayu** , Yang Xiping*, Luo Lin, Li Junyi, Chen Hongfei, An Rui, Li Jiyuan. Inspecting urban transit-oriented development from perspectives of human activity[J]. Journal of Transport Geography . (2025, Major and Revised for review)
           • Yang Xiping,  **Liu Jiayu**,  Tu Wei*, Zhao Zhiyuan, An Rui, Li Jiyuan. A multi-objective optimization framework for locating metro stations by integrating travel demand, accessibility and land use intensity[J]. Computers, Environment and Urban Systems . (2025, Under Review)
-          • Yang Xiping*, Luo Lin, **Liu Jiayu** , Chen Hongfei, Li Junyi. Evaluating the Improvement of Healthcare Accessibility for Urban Residents via the Construction of New Hospitals: A Case Study of Xi’an, China[J]. Applied Spatial Analysis and Policy , 18(5)（2025）.
-          • Luo Lin, Yang Xiping, Chen Xueye*, **Liu Jiayu** , An Rui, Li Jiyuan. Nonlinear Influence of the Built Environment on the Attraction of the Third Activity: A Comparative Analysis of Inflow from Home and Work[J].  ISPRS International Journal of Geo-Information , 13(9): 337（2024）.
+          • Yang Xiping*, Luo Lin, **Liu Jiayu** , Chen Hongfei, Li Junyi. Evaluating the Improvement of Healthcare Accessibility for Urban Residents via the Construction of New Hospitals: A Case Study of Xi'an, China[J]. Applied Spatial Analysis and Policy , 18(5)(2025).
+          • Luo Lin, Yang Xiping, Chen Xueye*, **Liu Jiayu** , An Rui, Li Jiyuan. Nonlinear Influence of the Built Environment on the Attraction of the Third Activity: A Comparative Analysis of Inflow from Home and Work[J].  ISPRS International Journal of Geo-Information , 13(9): 337(2024).
           • Huang Tao, Jiao Lei*, Bai Yingfei, Yan Jianwu, Yang Xiping, **Liu Jiayu** , Liang Wei, Luo Da, Zhang Liwei, Wang Hao, Li Zhaolin, Li Zongshan, Ji Ni, Gao Guangyao. Enhancing vegetation fine-scale classification accuracy in complex topography via machine learning: An approach that fuses UAV-LiDAR and high-resolution imagery[J].  Computers and Electronics in Agriculture . 235,110360(2025).
       filters:
         folders:
