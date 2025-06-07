@@ -17,7 +17,7 @@ sections:
       # Show a call-to-action button under your biography? (optional)
       button:
         text: Download CV
-        url: staticuploads/刘佳雨JiayuLiu.pdf
+        url: CV/CV-JiayuLiu.pdf
     design:
       css_class: dark
       background:
