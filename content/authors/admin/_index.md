@@ -25,7 +25,6 @@ role: M.S. in Geoinformatics Engineering
 # Organizations/Affiliations to display in Biography blox
 organizations:
   - name: Shaanxi Normal University
-    
 
 # Social network links
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
@@ -56,7 +55,7 @@ education:
   - area: BSc Land Management
     institution: Sichuan Agricultural University
     date_start: 2018-09-01
-    date_end: 2023-06-31
+    date_end: 2023-06-30
     
 publications:
   - "Liu Jiayu, Yang Xiping*, Huang Xiaoyan, Li Jiyuan, Li Junyi, Chen Hongfei, An Rui, Song Yongyong. Introducing street view into node-place model for evaluating transit-oriented development[J]. Journal of Transport Geography. (2025, Major and Revised for review)"
@@ -74,48 +73,6 @@ academic_activities:
 social:
   - "公众号：城市空间感知与治理优化（团队科研公众号）运营者和编辑"
   - "公众号：城市感知计算（科研科普公众号）新媒体矩阵成员，主持GIS茶话会"
-
-# Skills
-# Add your own SVG icons to `assets/media/icons/`
-skills:
-  - name: Programming & Modeling
-    items:
-      - name: Python
-        description: ''
-        percent: 90
-        icon: brands/python
-      - name: R
-        description: ''
-        percent: 80
-        icon: brands/r-project
-      - name: C
-        description: ''
-        percent: 60
-        icon: code-bracket
-      - name: Mathematical Modeling
-        description: ''
-        percent: 85
-        icon: chart-bar
-  - name: Professional Skills
-    items:
-      - name: Spatial Analysis
-        description: ''
-        percent: 95
-        icon: earth-americas
-      - name: Machine Learning
-        description: ''
-        percent: 90
-        icon: brain
-      - name: Deep Reinforcement Learning
-        description: ''
-        percent: 85
-        icon: robot
-      - name: Operations Research & Optimization
-        description: ''
-        percent: 80
-        icon: arrows-split-up-and-left
-
-
 
 
 awards:
